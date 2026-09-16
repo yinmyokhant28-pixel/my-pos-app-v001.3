@@ -10,7 +10,7 @@
   "theme_color": "#0b1f3a",
   "lang": "my",
   "dir": "ltr",
-  "icons": [
+  "icons": "any maskable" [
     {
       "src": "./icons/icon-192.png",
       "sizes": "192x192",
